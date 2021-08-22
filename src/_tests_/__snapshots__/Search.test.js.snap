@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search mounts App component to the virtual DOM 1`] = `
+<DocumentFragment>
+  <form
+    class="input-form"
+  >
+    <input
+      class="Search"
+      type="text"
+    />
+    <button
+      class="submit"
+      type="submit"
+    >
+      Search
+    </button>
+  </form>
+</DocumentFragment>
+`;

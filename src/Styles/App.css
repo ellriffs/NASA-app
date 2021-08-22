@@ -1,0 +1,13 @@
+
+.App{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.Logo{
+    height: 20rem;
+    width:40rem;
+    margin: auto;
+    color-adjust: initial;
+}

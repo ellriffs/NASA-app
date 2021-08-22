@@ -1,0 +1,20 @@
+.Search{
+    width: 50rem;
+    height: 2rem;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+
+.input-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.submit{
+    border-radius: 5px;
+    cursor: alias;
+    
+}
