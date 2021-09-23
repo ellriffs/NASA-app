@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
+
+.search-result-txt{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2rem;
+    font-family: 'Space Mono';
+    text-transform: uppercase;
+    text-shadow: 0 0 10px black;
+}
+.search-result-img{
+    position: relative;
+    top: 1rem;
+    border: 3px solid white;
+    box-shadow: 0 0 10px white;
+    margin: 10px;
+    height: 10rem;
+    width: 10rem;
+    cursor: alias;
+}

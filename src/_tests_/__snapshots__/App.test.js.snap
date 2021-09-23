@@ -24,6 +24,9 @@ exports[`App mounts App component to the virtual DOM 1`] = `
         Search
       </button>
     </form>
+    <p>
+      No Results!
+    </p>
   </div>
 </DocumentFragment>
 `;

@@ -1,11 +1,10 @@
 
-.App{
-    display: flex;
-    flex-direction: column;
-    
-}
+
 
 .Logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
     height: 20rem;
     width:40rem;
     margin: auto;
